@@ -95,8 +95,4 @@ public class EmployeeCRUDApp {
         System.out.println(response.getResult());
     }
 
-
-
-
-
 }
